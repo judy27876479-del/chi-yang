@@ -1,0 +1,6 @@
+{
+  "name": "台灣去哪玩？互動出遊決策地圖",
+  "description": "整合台灣互動地圖、城市地標、景點美食與隨機命運抽取機制的出遊指南與願望清單。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
